@@ -1,2 +1,2 @@
 # Projeto um
- Primeiro repositório 
+ Primeiro repositório (Git e GitHub)
